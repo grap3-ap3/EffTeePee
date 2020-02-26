@@ -7,7 +7,7 @@
 ##      This is a basic command line FTP client.
 ##      Use this program to connect to connect to, and interact with FTP servers.
 ##
-__version__ = ('0.0.1')
+__version__ = ('0.0.1a')
 ########################################################################
 #######################DO NOT EDIT ABOVE THIS LINE######################
 
